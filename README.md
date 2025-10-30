@@ -1,6 +1,6 @@
 # png2texi
 
-TEXI Converter (to/from PNG) for 3DS game [「NEWラブプラス+」/「NEWLOVEPLUS+」](http://www.konami.jp/products/newloveplus_plus/](https://youtu.be/Sz6p45GsLJQ?si=p1IOx1_ORt1iHWpl).
+TEXI Converter (to/from PNG) for 3DS game [「NEWラブプラス+」/「NEWLOVEPLUS+」](https://youtu.be/Sz6p45GsLJQ?si=p1IOx1_ORt1iHWpl).
 
 
 Drag & Drop to convert TEXI to PNG and back to TEXI.
