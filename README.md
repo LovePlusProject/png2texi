@@ -3,7 +3,7 @@
 TEXI Converter (to/from PNG) for 3DS game [「NEWラブプラス+」/「NEWLOVEPLUS+」](https://youtu.be/Sz6p45GsLJQ?si=p1IOx1_ORt1iHWpl).
 
 
-Drag&Drop to convert TEXI to PNG and back to TEXI.
+Loadtexi.exe> Drag & Drop to convert TEXI to PNG and back to TEXI.
 
 
 ![Alt text](http://i1381.photobucket.com/albums/ah213/LovePlusProject/texi_zpspsd2lj7m.png)
